@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-scram-0_1_13.flake = false;
+  inputs.src-scram-0_1_13.ref   = "refs/tags/0.1.13";
   inputs.src-scram-0_1_13.owner = "rgv151";
-  inputs.src-scram-0_1_13.ref   = "0_1_13";
   inputs.src-scram-0_1_13.repo  = "scram";
   inputs.src-scram-0_1_13.type  = "github";
   
