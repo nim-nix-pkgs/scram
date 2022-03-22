@@ -9,13 +9,14 @@
   
   inputs.src-scram-0_1_12.flake = false;
   inputs.src-scram-0_1_12.owner = "rgv151";
-  inputs.src-scram-0_1_12.ref   = "refs/tags/0.1.12";
+  inputs.src-scram-0_1_12.ref   = "0_1_12";
   inputs.src-scram-0_1_12.repo  = "scram";
   inputs.src-scram-0_1_12.type  = "github";
   
   inputs."hmac".owner = "nim-nix-pkgs";
   inputs."hmac".ref   = "master";
   inputs."hmac".repo  = "hmac";
+  inputs."hmac".dir   = "0_2_0";
   inputs."hmac".type  = "github";
   inputs."hmac".inputs.nixpkgs.follows = "nixpkgs";
   inputs."hmac".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
