@@ -36,11 +36,11 @@
       },
       "locked": {
         "dir": "0_2_0",
-        "lastModified": 1651919512,
-        "narHash": "sha256-GKHx++TFZ7XpMyTyz65nJ0IUwEZBJD9H7Qp47Ob4IAU=",
+        "lastModified": 1652392754,
+        "narHash": "sha256-mbCPxCDeOHY96b+qB4/U9DnrY69rw6yV1L8Z8qJ/8Mk=",
         "owner": "nim-nix-pkgs",
         "repo": "hmac",
-        "rev": "c2023bcfa2dcd9d51ba751c1c24d1ce5cbf0b275",
+        "rev": "0f50aaf0bb861efc97d0cbd4c714577760ea6df5",
         "type": "github"
       },
       "original": {
