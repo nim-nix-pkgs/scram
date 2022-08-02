@@ -126,7 +126,7 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "hmac": "hmac",
         "nixpkgs": "nixpkgs",
-        "src-scram-master": "src-scram-master"
+        "src-scram-0_1_14": "src-scram-0_1_14"
       }
     },
     "sha1": {
@@ -209,19 +209,19 @@
         "type": "github"
       }
     },
-    "src-scram-master": {
+    "src-scram-0_1_14": {
       "flake": false,
       "locked": {
-        "lastModified": 1659458129,
-        "narHash": "sha256-BvJjiqNQ9HUbCLw1059Lu6X/RX93seonStYcubvjn3o=",
+        "lastModified": 1658905245,
+        "narHash": "sha256-Yf7tE46EI+jvN6XG8d7jyMEIhM3ohWemoebCy19sCFU=",
         "owner": "rgv151",
         "repo": "scram",
-        "rev": "41909d728a3772ba344415dda1f5675012e9b518",
+        "rev": "499f6808717bc52ecb37bf5b83ef0eb50207e20e",
         "type": "github"
       },
       "original": {
         "owner": "rgv151",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.1.14",
         "repo": "scram",
         "type": "github"
       }
